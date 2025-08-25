@@ -3,7 +3,6 @@ import { Text, View, StyleSheet, SafeAreaView } from "react-native";
 const styles = StyleSheet.create({
     container: {
         backgroundColor: "#90caf9",
-        padding: 10, // optional to avoid text touching edges
     },
     largeText: {
         fontSize: 30,
